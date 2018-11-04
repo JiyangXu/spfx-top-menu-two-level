@@ -1,0 +1,4 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/write-manifests.schema.json",
+  "cdnBasePath": "https://publiccdn.sharepointonline.com/m3propertyunit.sharepoint.com/sites/cdn-host/cdnpublic/M3-TheHub-SPFXTopMenu-App/"
+}

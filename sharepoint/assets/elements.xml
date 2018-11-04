@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="SpfxTopMenu"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="d6ad9140-bbd3-44d5-9274-241e249980e1"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>

@@ -1,0 +1,29 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/core-build/serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://m3propertyunit.sharepoint.com/sites/TempTest/_layouts/15/viewlsts.aspx",
+      "customActions": {
+        "d6ad9140-bbd3-44d5-9274-241e249980e1": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "testMessage": "Test message"
+          }
+        }
+      }
+    },
+    "spfxTopMenu": {
+      "pageUrl": "https://m3propertyunit.sharepoint.com/sites/TempTest/_layouts/15/viewlsts.aspx",
+      "customActions": {
+        "d6ad9140-bbd3-44d5-9274-241e249980e1": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "testMessage": "Test message"
+          }
+        }
+      }
+    }
+  }
+}
